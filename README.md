@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Ronald-Boonstra
 - 👀 I’m interested in Gis, Oracle, databases, datawarehouses...
-- 🌱 I’m currently learning technical architecture
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning technical architecture and Python
+- 💞️ I’m looking to collaborate on Python
 - 📫 How to reach me ...
 
 <!---
